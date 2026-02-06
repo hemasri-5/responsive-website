@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+#nav-item1{
+  color:#323f4b;
+  font-family: "Roboto";
+}
+#nav-item2{
+ color:#323f4b;
+  font-family: "Roboto"; 
+}
+#nav-item3{
+ color:#323f4b;
+  font-family: "Roboto"; 
+}
+#nav-item4{
+ color:#323f4b;
+  font-family: "Roboto"; 
+}
+.food-logo{
+  height: 10vh;
+}
+.banner-section-container{
+  background-image: url("https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9vZHxlbnwwfHwwfHx8MA%3D%3D");
+  height: 100vh;
+  background-size:cover;
+}
+.banner-heading{
+  color: white;
+  font-family: "Roboto";
+  font-size:55px;
+  font-weight: 300;
+}
+.banner-caption{
+  color: #f5f7fa;
+  font-family: "Roboto";
+  font-size:24px;
+  font-weight: 300;
+}
+.custom-button{
+  color:white;
+  background-color: #d0b220;
+  height: 45px;
+  border-radius:8px;
+  width:130px;
+  border-width:0px;
+  margin-right:10px;
+}
+.custom-outline-button{
+  border-width:1px;
+  border-color: black;
+  height: 45px;
+  width:130px;
+  color:white;
+  background-color: transparent;
+  border-radius:8px;
+}
+.choose-items{
+  height: 15vh;
+}
+.choose-item-card{
+  background-color: white;
+  margin:30px;
+  padding:20px 20px 40px 20px;
+  border-radius: 10px;
+}
+.wcu-section{
+  background-color: #f9fbfe;
+  text-align: center;
+}
+.wcu-section-heading{
+  color:#183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.wcu-section-description{
+  font-family: "Roboto";
+  font-size: 16px;
+  color:#597184;
+}
+.wcu-card-title{
+  font-size:25px;
+}
+.wcu-card-description{
+  font-size:18px;
+}
+.em-item-card{
+   background-color:white;
+   border-radius:8px;
+   width:100%;
+   
+   border-radius:10px;
+}
+.em-section{
+   background-color: #f9fbfe;
+   width:100%;
+}
+.em-heading{
+ font-family: "Roboto";
+  font-weight:700;
+  font-size:28px;
+  color:#183b56;
+}
+.em-items{
+  height: 200px;
+  border-radius:30px;
+  background-size:cover;
+}
+.em-card-heading{
+  color:#323f4b;
+  font-family: "Roboto";
+  font-size:18px;
+  font-weight:500;
+  margin-top:24px;
+}
+.em-card-description{
+  color:black;
+  font-size:14px;
+  font-family:"Roboto";
+  font-weight:500;
+  border-radius:5px;
+  border-width:0px;
+  height: 45px;
+  width: 150px;
+  background-image: radial-gradient(white,black);
+  color:white;
+}
+.healthy-food-section-heading{
+  color:#0e1d52;
+  font-size:35px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.healthy-food-section-para{
+  color:#a3a7c9;
+  font-size:20px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.healthy-food-section{
+  background-color: #f0f2f2;
+}
+.delivary-and-payment-section-heading{
+  color:#0e1d52;
+  font-size:35px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.delivary-and-payment-section-para{
+  color:#a3a7c9;
+  font-size:20px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.custom-button{
+  background-color: orange;
+  border-width:0px;
+  border-radius:5px;
+  height: 45px;
+  width:150px;
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  
+}
+.image{
+  height: 12vh;
+  width:10vw;
+  padding:15px;
+  padding-left:0px;
+}
+.thanking-section-heading{
+  color:#0e1d52;
+  font-size:35px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.thanking-section-para{
+  color:#a3a7c9;
+  font-size:20px;
+   font-weight: 500;
+   font-family: "Roboto";
+}
+.thanking-section{
+  background-image: radial-gradient(#fff8db,#ffae38);
+}
+.icon{
+  color:#d0b200;
+  font-size:35px;
+}
+.follow-us-icon-container{
+  border-radius: 40px;
+  height: 80px;
+  width:80px;
+  background-color: #faf7e8;
+  padding-left: 22px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right:16px;
+  margin:15px;
+}
+.follow-us-heading{
+  font-family: "Roboto";
+  font-weight: 500;
+  color:#131b6b;
+  font-style:bold;
+}
+.footer-section{
+  background-color: #03051a;
+  width:100%;
+}
+.footer-link{
+  color:#bab8b1;
+  font-size:30px;
+}
+.foot-para{
+  color:#bab8b1;
+  font-size:30px;
+}
+.icon-green{
+  font-size:60px;
+}
+.em-non-veg{
+  background-image: radial-gradient(#ffffff,#efdff0);
+  width:100%;
+  font-family: "Roboto";
+}
+.non-veg-item-card{
+  background-color: white;
+  width:100%;
+  border-radius:10px;
+}
+.non-veg-image{
+  border-radius:10px;
+}
+.non-veg-card-name{
+  font-size:28px;
+  color:#3d3428;
+  font-weight: 500;
+}
+.non-veg-card-cost{
+ font-size:20px; 
+}
+.non-veg-order{
+  height: 40px;
+  width:100px;
+  background-color: rgba(255, 165, 0, 0.5);
+  border-width:0px;
+}
+.follow-us-contact-container{
+   border-radius: 50px;
+  height: 110px;
+  width:110px;
+  background-color: #faf7e8;
+  padding-left: 22px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right:16px;
+  margin:15px;
+}
+.modal-thanking-title{
+  color:#ffae38;
+  font-weight: 800;
+  font-size:30px;
+}
+.desert-veg{
+  background-image: radial-gradient(#ffffff,#f27c87);
+  width:100%;
+  font-family: "Roboto";
+}
+.desert-item-card{
+  background-color: white;
+  width:100%;
+  border-radius:10px;
+}
+.dessert-image{
+  border-radius:10px;
+}
+.desert-card-name{
+  font-size:28px;
+  color:#3d3428;
+  font-weight: 500;
+}
+.dessert-card-cost{
+ font-size:20px; 
+}
+.dessert-order{
+  height: 40px;
+  width:100px;
+  background-image: radial-gradient(#ffffff,#f27c87);
+  border-width:0px;
+}
+.salad-veg{
+ background-image: radial-gradient(#fff8db,#51fc4e);
+  width:100%;
+  font-family: "Roboto";
+}
+.salad-order{
+  height: 40px;
+  width:100px;
+  background-image: radial-gradient(#fff8db,#33fa2f);
+  border-width:0px;
+}
+.noodles-veg{
+  background-image: radial-gradient(#ffffff,gold);
+  width:100%;
+  font-family: "Roboto";
+}
+.noodles-order{
+  height: 40px;
+  width:100px;
+ background-image: radial-gradient(#ffffff,gold);
+  border-width:0px;
+}
+.veg{
+  background-image: radial-gradient(#ffffff,#1d2057);
+  width:100%;
+  font-family: "Roboto";
+}
+.veg-order{
+  height: 40px;
+  width:100px;
+ background-image: radial-gradient(#ffffff,#1d2057);
+  border-width:0px;
+}
+.soup{
+  background-image: radial-gradient(#ffffff,#571d1f);
+  width:100%;
+  font-family: "Roboto";
+}
+.soup-order{
+  height: 40px;
+  width:100px;
+ background-image: radial-gradient(#ffffff,#571d1f);
+  border-width:0px;
+}
